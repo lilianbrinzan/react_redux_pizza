@@ -1,10 +1,10 @@
-# Проект интернет магазин пицц на React.js
+# Проект интернет магазин пицa на React.js
 
-[Ссылка на проект](https://dmitriyledovskih.github.io/react-pizza)
+[Ссылка на проект](https://lilianbrinzan.github.io/react_redux_pizza/#/)
 
 ## Описание:
 
-Pet-проект на React.js интернет магазин пицц
+Pet-проект на React.js интернет магазин пицa
 
 ## Стек:
 
